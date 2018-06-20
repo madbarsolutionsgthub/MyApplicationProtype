@@ -1,0 +1,33 @@
+[
+	{
+		"sNo":"1",
+		"categoryId":"10",
+		"qst":"What is the First Computer in Bangladesh ?",
+		"ans":"IBM 1620"
+	},
+	{
+		"sNo":"2",
+		"categoryId":"10",
+		"qst":"Internate Start in Bangladesh",
+		"ans":"1996"
+	},
+	{
+		"sNo":"3",
+		"categoryId":"10",
+		"qst":"Name of Search engin by Bangladesh ",
+		"ans":"Pepilick"
+	},
+	{
+		"sNo":"2",
+		"categoryId":"10",
+		"qst":"Internate Start in Bangladesh Two",
+		"ans":"1996"
+	},
+	{
+		"sNo":"3",
+		"categoryId":"10",
+		"qst":"Name of Search engin by Bangladesh Two",
+		"ans":"Pepilick"
+	}
+
+]

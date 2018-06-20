@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My App Proto</string>
+
+    <string-array name="person_arr">
+        <item>Jon Clay</item>
+        <item>Robut hok</item>
+        <item>Denyel Creg</item>
+        <item>Jon Curter</item>
+        <item>Martin sozy</item>
+    </string-array>
+
+</resources>
